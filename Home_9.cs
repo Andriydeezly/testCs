@@ -28,3 +28,4 @@ namespace Homework
         }
     }
 }
+// МЕТОДЫ И ФУНКЦИИ В C#
